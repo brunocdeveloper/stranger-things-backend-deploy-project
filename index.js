@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
     req.query,
     hereIsTheUpsideDown,
   );
-
+  console.log('teste');
   res.status(200).json(characters);
 });
 
