@@ -1,5 +1,5 @@
 apps:
-  - name: stranger-things
+  - name: app
     script: ./index.js
     exec_mode: cluster
     instances: 2
