@@ -1,9 +1,8 @@
-# Boas vindas ao repositório backend do projeto de Deploy - Stranger Things!
+# O que será desenvolvido
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de backend.
+--
+O projeto deverá conter as configurações necessárias para o deploy.
+Configurações no .json, procfile, pm2
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
 
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do backend.
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-011-stranger-things) em que os requisitos do projeto são destrinchados.
